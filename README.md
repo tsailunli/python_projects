@@ -27,4 +27,4 @@ Watch my [DEMO VIDEOS](https://drive.google.com/drive/folders/1cxHy-ISk9fS147xfG
 * [boggle_game](https://github.com/nano19595/stanCode_projects_SC101/tree/main/stanCode_projects_SC101/boggle_game)
   * Boggle is a game with 16 characters. By selecting at a random character as starting point, players can combine the character around the chosen one to see if it is possible to form a new word. Keep repeating the process until all characthers have become the starting point.
   
-* In addition to file reading and data structures, both anagram and boggle games applied the concept of recursion, such as backtracking, early stopping, and helper function. 
+* In addition to file reading and data structures, both anagram and boggle games applied the concept of recursion, backtracking, early stopping, and helper function. 
